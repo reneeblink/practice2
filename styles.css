@@ -1,0 +1,196 @@
+
+.start{
+    background-image: url("SPOILER_60d1ed4841346d936914d144e33d37b6_auto_x2_1686925876619.jpg");
+    min-height: 30vh;
+}
+.cookie-consent {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .cookie-consent span {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .cookie-consent button {
+    padding: 5px 10px;
+  }
+   
+  .header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .hero {
+    margin-top: 50px;
+    text-align: center;
+  }
+  
+  .hero h1 {
+    font-size: 60px;
+    margin-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .hero p {
+    font-size: 24px;
+    margin-bottom: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: darkblue;
+  }
+
+
+.intro{
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-top: 3%;
+    font-family: 'Trebuchet MS';
+    font-size: 20px;
+
+}
+
+
+.intro h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-style: italic;
+}
+
+.about{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    font-family: 'Trebuchet MS';
+    font-size: 20px;
+    text-align: center;
+}
+
+.content{
+    border: 7px solid #000; 
+    margin-left: 0%;
+    margin-right: 0%;
+    padding: 10;
+}
+
+.container {
+    display: flex;
+  }
+  
+  .left-block {
+    width: 50%;
+    color: darkblue
+ }
+  .right-block {
+    width: 50%;
+    text-align: center;
+  }
+  .rounded-image {
+    border-radius: 5% ;
+  }
+
+.about h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    text-align: center;
+    
+}
+
+.second{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 10%;
+    font-family: 'Trebuchet MS';
+    font-size: 15px;
+}
+
+.left-blockk{
+    color: antiquewhite;
+    text-align: right;
+    padding: 10;
+}
+
+.right-blockk{
+    color: antiquewhite;
+    text-align: right;
+    padding: 10px;
+}
+
+.complex{
+    background-image: url("POST-QUANTUM-CRYPTOGRAPHY-1140x380.webp");
+    background-size: cover;
+    background-position: center;
+
+}
+
+.second h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 37px;
+    text-align: center;
+}
+
+p {
+    line-height: 170%;
+  }
+
+  .sph{
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-top: 7%;
+    font-family: 'Trebuchet MS';
+    font-size: 20px;
+}
+
+.sph h4{
+    text-align: center;
+    font-style: normal;
+    color: darkblue;
+}
+
+
+.sph h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 37px;
+}
+
+.last{
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-top: 7%;
+    font-family: 'Trebuchet MS';
+    font-size: 20px; 
+}
+
+.last h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+.footer{
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-top: 3%;
+    font-family: 'Trebuchet MS';
+    font-size: 20px; 
+}
+
+.footer h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+.conc{
+    background-image: url(1_1_auto_x2_1.jpg);
+    min-height: 50vh;
+}
